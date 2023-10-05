@@ -1,1 +1,8 @@
+The sales_data.csv is collected from Kaggle website. The main aim of this analysis to analyze the sales data in different ways. 
 
+The data has been analyzed in three ways:
+1. Finding 10 most selling product
+2. Calculating total sales yearly
+3. Calculating total sales by state and get top 15 most selling by state
+
+The calculated data are visualized in graph.
